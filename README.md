@@ -1,1 +1,1 @@
-# VAE-Demos
+# VAE-Demo
